@@ -35,3 +35,41 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
+
+## 📊 GitHub Stats
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=kholivox&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats" height="180em"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kholivox&theme=radical&hide_border=true" alt="Streak Stats" height="180em"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kholivox&theme=radical&layout=compact&hide_border=true" alt="Top Languages" height="180em"/>
+</div>
+
+---
+
+## 🌟 Latest Projects
+- 🐍 **Python Data Analysis**: [GitHub Repo](https://github.com/kholivox/project1)
+- 🧠 **Machine Learning Model for Prediction**: [GitHub Repo](https://github.com/kholivox/project2)
+- 🌐 **Django Web Application**: [GitHub Repo](https://github.com/kholivox/project3)
+- 📊 **Data Visualization with Plotly**: [GitHub Repo](https://github.com/kholivox/project4)
+
+---
+
+## ✍️ Random Developer Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 😂 Random Developer Meme
+<img src="https://rm.up.railway.app/" alt="Dev Meme" width="500px"/>
+
+---
+
+## 📈 Visitor Count
+![Visitor Count](https://visitcount.itsvg.in/api?id=kholivox&label=Profile%20Views&color=6&icon=2&pretty=true)
+
+## 🐦 Latest Tweet
+[![Latest Tweet](https://gtce.itsvg.in/api?username=https://t.me/+gVHROD5gQ6U4ODJl)](https://twitter.com/https://t.me/+gVHROD5gQ6U4ODJl)
+
+---
+
+## 💰 Support Me
+If you like my work, consider buying me a coffee:
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kholivox)
+
