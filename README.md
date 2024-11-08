@@ -2,7 +2,7 @@
 
 # **🚀 Welcome to My GitHub Universe**
 
-[![Header](https://user-images.githubusercontent.com/98796024/159731177-f53c9f1e-c72e-4d65-a4cd-5f63bfc3f497.gif)](#)
+[![MasterHead](https://philippe.bourgau.net/imgs/2015-08-19-mining-github-for-new-hires/github.png)]
 
 ---
 
