@@ -1,5 +1,5 @@
 [![MasterHead](https://philippe.bourgau.net/imgs/2015-08-19-mining-github-for-new-hires/github.png)]
-<h1 align="center">Hi 👋, I'm KHOLIVOX...</h1>
+<h1 align="center">Hi 👋, I'm ZINNA...</h1>
 <h2 style="color:blue"align="center">I AM A DATA SCIENTIST...</h2>
 <img align="right" alt="coding" width="400" src="https://as2.ftcdn.net/v2/jpg/03/06/38/39/1000_F_306383932_9OL6TW7bfgqJoqpdujhurbtFeWbzKiyK.jpg">
  
