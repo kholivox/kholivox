@@ -13,7 +13,7 @@
 #### _A Passionate Data Scientist & ML Enthusiast_
 
 <div align="center">
-  <img src="[https://cdn.pixabay.com/photo/2023/11/08/07/48/ai-generated-8374113_1280.jpg](https://png.pngtree.com/thumb_back/fh260/background/20230706/pngtree-3d-rendered-concept-of-computer-graphic-design-image_3821465.jpg)" alt="Coding GIF" width="400"/>
+  <img src="https://png.pngtree.com/background/20230521/original/pngtree-d-concept-of-a-laptop-with-various-paper-objects-at-the-picture-image_2682773.jpg" alt="Coding GIF" width="400"/>
 </div>
 
 ---
