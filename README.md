@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a dynamic **Data Scientist** and **Machine Lea
 - 🔭 **Currently Exploring**: AI-driven solutions for predictive analytics & automation.
 - 🌱 **Learning Path**: Advanced **NLP**, **Deep Reinforcement Learning**, and **MLOps**.
 - 🤝 **Open to Collaborations**: AI, ML, Data Science & Open-Source projects.
-- 📫 **Contact Me**: [codinguniverse28@gmail.com](mailto:codinguniverse28@gmail.com)
+- 📫 **Contact Me**: [codinguniverse28@gmail.com](mailto:chinna03022002@gmail.com)
 - 🌍 **Fun Fact**: I love turning data into stories!
 
 ---
